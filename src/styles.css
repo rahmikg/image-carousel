@@ -1,0 +1,21 @@
+.pic_card {
+    width: 50%;
+    height: 500px;
+    background: rgb(255, 255, 255);
+    color: rgb(3, 3, 3);
+    font-size: 30px;
+    margin: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+
+.pic_card > img {
+    object-fit: fill;
+    min-width: 300px;
+    min-height: 100px;
+    width: 30%;
+    height: 50%;
+}

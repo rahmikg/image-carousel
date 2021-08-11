@@ -1,0 +1,13 @@
+ h1 {
+    
+    font-size: 5rem;
+    line-height: 10px;
+    padding-top: 30px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    padding-left: 425px;
+}
+
+.home__container {
+    display: flex;
+    padding-top: 50px;
+}
